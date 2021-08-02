@@ -1,12 +1,9 @@
-package com.utility.JiraAPI;
 
-import java.io.IOException;
-import java.security.GeneralSecurityException;
 
 public class App {
-	public static void main(String[] args) throws IOException, GeneralSecurityException {
+	public static void main(String[] args) {
 	
-			IssueCreation.initiate();
+			System.out.println("Testing demo file");
 			
 		
 	}
